@@ -6,7 +6,7 @@ var milk1,milk2,milk3,milk4,backgroundImage,car1Image,car2Image,car3Image,car4Im
 function preload(){
 
    
-   car1Image = loadImage(happy dog.png);
+   car1Image = loadImage(happydog.png);
    car2Image = loadImage(Milk.png);
    car3Image = loadImage(milkImage.png);
    car4Image = loadImage(Dog.png);
